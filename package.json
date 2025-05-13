@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "nx": "^21.0.3"
+    "nx": "21.0.3"
+  },
+  "devDependencies": {
+    "nx": "21.0.3"
   }
 }
